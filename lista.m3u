@@ -21,25 +21,25 @@ http://127.0.0.1:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M. LaLiga 6 1080  c896
 http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 1080  4c46
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 1080  4c46
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 720  06b3
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 720  06b3
 http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 2 1080  d81b
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 2 1080  d81b
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 2 720  2709
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 2 720  2709
 http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 3  b4a0
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 3  b4a0
 http://127.0.0.1:6878/ace/getstream?id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 4  2cac
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 4  2cac
 http://127.0.0.1:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 5  a114
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 5  a114
 http://127.0.0.1:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 6   7a9b
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 6   7a9b
 http://127.0.0.1:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 7   446e
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 7   446e
 http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOxHgb62IgHB2vJXLLZ5zAZvegNcIgEEvkyago9SljeQ9GGXSgK0s1OhR4HgvanwLk9w&usqp=CAU" ,LaLiga Smartbank 8  4d52
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,LaLiga Hypermotion 8  4d52
 http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,Copa 1080  8ba7
 http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
