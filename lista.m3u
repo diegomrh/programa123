@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" ,M. LaLiga UHD mas info grupo telegram  dce1
-http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,La Liga BAR 1080  aa82
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. LaLiga 1080 MultiAudio  7d8c
@@ -43,14 +41,6 @@ http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
 http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" ,DAZN LaLiga 5 1080 MultiAudio  99e5
 http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga Femenina 2" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg" ,Dazn liga f 2  d6cd
-http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg" ,Dazn liga F 1  6002
-http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga Femenina 3" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg" ,Dazn liga f 3  1629
-http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga Femenina 4" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg" ,Dazn liga f 4  e454
-http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M.L. Campeones 1080 MultiAudio  931b
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M.L. Campeones 1080 MultiAudio  f096
@@ -89,8 +79,6 @@ http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 Multicamara (Fórmula 1)  9686
 http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 UHD (Fórmula 1)  6b94
-http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 1080  5789
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 1080  9dad
@@ -167,6 +155,8 @@ http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
 #EXTINF:-1 group-title="Otros" tvg-id="MOVISTAR PLUS+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" ,M.Plus 1080  5a23
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 2  d6cd
+http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="Otros" tvg-id="GOL PLAY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" ,GOL TV 1080  d462
 http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title="Otros" tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,tdp 1080  e239
@@ -189,3 +179,9 @@ http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros" tvg-id="Esport 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 1  6002
+http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 3  1629
+http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 4  e454
+http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
