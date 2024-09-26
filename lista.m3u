@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" ,M. LaLiga 4K  dce1
 http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,La Liga BAR 1080  aa82
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" ,La Liga BAR 1080  aa82
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. LaLiga 1080 MultiAudio  7d8c
 http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
@@ -193,29 +193,29 @@ http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
 #EXTINF:-1 group-title="Otros" tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,tdp 1080  e239
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro 4k  6313
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro 4k  6313
 http://127.0.0.1:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro1 1080P  f233
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro1 1080P  f233
 http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro2 1080  3e0d
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro2 1080  3e0d
 http://127.0.0.1:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro3 1080  a62c
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro3 1080  a62c
 http://127.0.0.1:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro4 1080  76a4
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro4 1080  76a4
 http://127.0.0.1:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro5 1080  914c
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro5 1080  914c
 http://127.0.0.1:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro6 1080  1bc6
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro6 1080  1bc6
 http://127.0.0.1:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro7 1080  e899
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro7 1080  e899
 http://127.0.0.1:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro8 1080  721a
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro8 1080  721a
 http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro9 1080  dd9c
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Euro9 1080  dd9c
 http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 #EXTINF:-1 group-title="Otros" tvg-id="MOVISTAR PLUS+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" ,M.Plus 1080  5a23
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 2  d6cd
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,PPVP 2  d6cd
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="Otros" tvg-id="GOL PLAY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" ,GOL TV 1080  d462
 http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
@@ -227,7 +227,7 @@ http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 http://127.0.0.1:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Otros" tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco 1080  bb19
 http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,tv3 1080   5c05
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,tv3 1080   5c05
 http://127.0.0.1:6878/ace/getstream?id=5c05217f1813045f2af2fe4ec77eb27b7f7deb6e
 #EXTINF:-1 group-title="Otros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV 1 1080  ce23
 http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
@@ -239,19 +239,19 @@ http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros" tvg-id="Esport 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 1  6002
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,PPVP 1  6002
 http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 3  1629
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,PPVP 3  1629
 http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 4  e454
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,PPVP 4  e454
 http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="Otros" tvg-id="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 UHD  6636
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Real Madrid TV 1080  0ec3
+#EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png" ,Real Madrid TV 1080  0ec3
 http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Real Madrid TV 720  0827
+#EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png" ,Real Madrid TV 720  0827
 http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Wimbledon UHD  78aa
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Wimbledon UHD  78aa
 http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,NBA  e72d
+#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,NBA  e72d
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
