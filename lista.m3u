@@ -253,5 +253,5 @@ http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
 http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
 #EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,Wimbledon UHD  78aa
 http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
-#EXTINF:-1 group-title="Otros" tvg-id="" tvg-logo="" ,NBA  e72d
+#EXTINF:-1 group-title="Otros" tvg-id="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" ,NBA  e72d
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
