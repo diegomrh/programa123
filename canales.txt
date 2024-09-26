@@ -215,17 +215,7 @@ bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
 
 
-â¢ Sport Tv 1 1080
-â¢ Sport Tv 2 1080
-â¢ Sport Tv 3 1080
-â¢ beIN SPORTS ñ
-â¢ Barça 720
-
-â¢ PPVP 1
-â¢ PPVP 2
-â¢ PPVP 3
-â¢ PPVP 4
-
+â¢ 
 5c05217f1813045f2af2fe4ec77eb27b7f7deb6e
 Sport Tv 1 1080
 ce235921dac95e1da2dd5e54673c2fecb9e806de
@@ -235,7 +225,7 @@ Sport Tv 3 1080
 f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 beIN SPORTS ñ
 41af6926a6010b68ba2540975761436bb077748f
-BarÃ§a 720
+Barça 720
 e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 PPVP 1
 600222a4f98df80a2c0df2d60cb5ff3df9620710
