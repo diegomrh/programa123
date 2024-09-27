@@ -227,7 +227,7 @@ http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 http://127.0.0.1:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Otros" tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco 1080  bb19
 http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
-#EXTINF:-1 group-title="Otros" tvg-id="TV3 CAT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TV3CAT.png" ,tv3 1080  5c05
+#EXTINF:-1 group-title="Otros" tvg-id="TV3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TV3CAT.png" ,tv3 1080  5c05
 http://127.0.0.1:6878/ace/getstream?id=5c05217f1813045f2af2fe4ec77eb27b7f7deb6e
 #EXTINF:-1 group-title="Otros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV 1 1080  ce23
 http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
@@ -247,9 +247,9 @@ http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="Otros" tvg-id="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 UHD  6636
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png" ,Real Madrid TV 1080  0ec3
+#EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" ,Real Madrid TV 1080  0ec3
 http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
-#EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png" ,Real Madrid TV 720  0827
+#EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" ,Real Madrid TV 720  0827
 http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Wimbledon UHD  78aa
 http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
