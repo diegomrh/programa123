@@ -215,7 +215,7 @@ http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="Otros" tvg-id="GOL PLAY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" ,GOL TV 1080  d462
 http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="Otros" tvg-id="I217.33395.zap2it.com" tvg-logo="" ,Tennis Channel  9292
+#EXTINF:-1 group-title="Otros" tvg-id="I217.33395.zap2it.com" tvg-logo="https://play-lh.googleusercontent.com/HewBDQg_Fxz-O4ThizbkdNIObYISkTdKtfTbcMmC-uOyDYE-n6MKzL5dOfw5ZlxWEA" ,Tennis Channel  9292
 http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 group-title="Otros" tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" ,CUATRO 1080  e8ee
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
@@ -231,7 +231,7 @@ http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
 http://127.0.0.1:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Otros" tvg-id="PT | Sport TV 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV 3 1080  f8cb
 http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Otros" tvg-id="beIN SPORTS ñ" tvg-logo="https://play-lh.googleusercontent.com/HewBDQg_Fxz-O4ThizbkdNIObYISkTdKtfTbcMmC-uOyDYE-n6MKzL5dOfw5ZlxWEA" ,beIN SPORTS ñ  41af
+#EXTINF:-1 group-title="Otros" tvg-id="beIN SPORTS ñ" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ  41af
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros" tvg-id="Esport 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
