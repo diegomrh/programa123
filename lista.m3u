@@ -231,7 +231,7 @@ http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
 http://127.0.0.1:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Otros" tvg-id="PT | Sport TV 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV 3 1080  f8cb
 http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Otros" tvg-id="beIN SPORTS ñ" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ  41af
+#EXTINF:-1 group-title="Otros" tvg-id="beIN SPORTS ñ" tvg-logo="" ,beIN SPORTS ñ  41af
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros" tvg-id="Esport 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
