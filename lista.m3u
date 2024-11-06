@@ -1,1 +1,35 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 12" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" ,M.L. Campeones 12 SD  bb50
+http://127.0.0.1:6878/ace/getstream?id=bb50397b3f49167eed95264005fae851baa7e3ee
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 UHD (Fórmula 1)  6b94
+http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" ,M. Golf2 1080  9a4f
+http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga Hypermotion 3  424c
+http://127.0.0.1:6878/ace/getstream?id=424c89c7c0f251051269b578f40d13d192cf2c2d
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS4.png" ,LaLiga Hypermotion 4  2cac
+http://127.0.0.1:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS5.png" ,LaLiga Hypermotion 5  a114
+http://127.0.0.1:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS6.png" ,LaLiga Hypermotion 6  7a9b
+http://127.0.0.1:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" ,LaLiga Hypermotion 7  446e
+http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga Hypermotion 8  4d52
+http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+#EXTINF:-1 group-title="Toros" tvg-id="Onetoro" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" ,Onetoro  ee38
+http://127.0.0.1:6878/ace/getstream?id=ee38ea1806129de000bd7925a5d52554d70bb560
+#EXTINF:-1 group-title="Toros" tvg-id="MundoToro" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2020/02/Mundotoro-Principal-750x536.png" ,MundoToro  cc31
+http://127.0.0.1:6878/ace/getstream?id=cc316a6404e211cbd2a77369561ea911e9032d9e
+#EXTINF:-1 group-title="Toros" tvg-id="Onetoro" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" ,Onetoro HD   f763
+http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
+#EXTINF:-1 group-title="Otros" tvg-id="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 UHD  6636
+http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" ,Real Madrid TV 1080  0ec3
+http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
+#EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" ,Real Madrid TV 720  0827
+http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Wimbledon UHD  78aa
+http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
+#EXTINF:-1 group-title="Otros" tvg-id="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" ,NBA  e72d
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
