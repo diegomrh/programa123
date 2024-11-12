@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" ,M. LaLiga UHD  dce1
 http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" ,La Liga BAR 1080  aa82
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. LaLiga 1080P  aa82
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M. LaLiga 1080 MultiAudio  7d8c
 http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
@@ -23,6 +23,8 @@ http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
 http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,Copa 1080  307b
 http://127.0.0.1:6878/ace/getstream?id=307b6e84ca9620b3f7a13af143c9e4019752756a
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,Copa 1080 plus  d6cd
+http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,Copa 1080 MultiAudio  3a4c
 http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,Copa 1080  7d70
@@ -161,7 +163,7 @@ http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 #EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" ,La 2  6010
 http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
-#EXTINF:-1 group-title="Otros" tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,TDP 1080  e239
+#EXTINF:-1 group-title="Otros" tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,tdp 1080  e239
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro 4k  6313
 http://127.0.0.1:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
@@ -185,8 +187,6 @@ http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
 http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 #EXTINF:-1 group-title="Otros" tvg-id="MOVISTAR PLUS+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" ,M.Plus 1080  5a23
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 group-title="Otros" tvg-id="FOX SPORTS" tvg-logo="https://app.foxsports.com.mx/assets/d4bbeacf.png" ,FOX SPORTS  d6cd
-http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="Otros" tvg-id="GOL PLAY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" ,GOL TV 1080  d462
 http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title="Otros" tvg-id="I217.33395.zap2it.com" tvg-logo="https://play-lh.googleusercontent.com/HewBDQg_Fxz-O4ThizbkdNIObYISkTdKtfTbcMmC-uOyDYE-n6MKzL5dOfw5ZlxWEA" ,Tennis Channel  9292
