@@ -23,6 +23,8 @@ http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
 http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,Copa 1080  307b
 http://127.0.0.1:6878/ace/getstream?id=307b6e84ca9620b3f7a13af143c9e4019752756a
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,Copa 1080 plus  d6cd
+http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,Copa 1080 MultiAudio  3a4c
 http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,Copa 1080  7d70
@@ -89,11 +91,11 @@ http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 Multicamara (Fórmula 1)  9686
 http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 1080  5789
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 1080 (Fórmula 1)  5789
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 1080  9dad
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 1080 (Fórmula 1)  9dad
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 720  e1fc
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 720 (Fórmula 1)  e1fc
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" ,DAZN 1 1080  8ca0
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
@@ -133,7 +135,7 @@ http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 http://127.0.0.1:6878/ace/getstream?id=688cc3af0f517c598e07d35f1ce79f8bcba17d81
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" ,M. Golf2 1080  0742
 http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN DEPORTES  3ce7
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://postimg.cc/hzDtPMJS" ,ESPN DEPORTES  3ce7
 http://127.0.0.1:6878/ace/getstream?id=3ce776c6eac31081239903cd45c152b27f95af63
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga Hypermotion 1080  4c46
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
@@ -171,7 +173,7 @@ http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 http://127.0.0.1:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,Eurosport 360 HD 1 [DE]  22df
 http://127.0.0.1:6878/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,Eurosport 360 HD 2 [DE]  57f9
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,Eurosport 360 HD 2 [DE]  57f9
 http://127.0.0.1:6878/ace/getstream?id=57f95543ac41656d473b1a27123fc413388a728c
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,Eurosport 360 HD 3 [DE]  7adb
 http://127.0.0.1:6878/ace/getstream?id=7adbca42657ace1fe228142d351d0896974bbe0c
@@ -243,17 +245,15 @@ http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros" tvg-id="Esport 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN  6002
+#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://postimg.cc/hzDtPMJS" ,ESPN  6002
 http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="Otros" tvg-id="FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" ,FOX SPORTS  d6cd
-http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="Otros" tvg-id="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_2mx.png/800px-Fox_Sports_2mx.png" ,FOX SPORTS 2  1629
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 3  1629
 http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 4  e454
 http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 group-title="Otros" tvg-id="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" ,NBA  e72d
+#EXTINF:-1 group-title="Otros" tvg-id="NBA" tvg-logo="https://i.postimg.cc/SKjPkzTN/Logo-NBA.png" ,NBA  e72d
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ESPORT 3 CAT [1080]  4c0e
+#EXTINF:-1 group-title="Otros" tvg-id="Esport 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" ,ESPORT 3 CAT [1080]  4c0e
 http://127.0.0.1:6878/ace/getstream?id=4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
 #EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" ,REAL MADRID TV [1080]  0827
 http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
@@ -261,43 +261,43 @@ http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
 http://127.0.0.1:6878/ace/getstream?id=d644f9276c8c204882ccc4e80cc26f7986830be8
 #EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" ,REAL MADRID TV [1080]  0ec3
 http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN Argentina [1080]  2492
+#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://postimg.cc/hzDtPMJS" ,ESPN Argentina [1080]  2492
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 3 Argentina [1080]  b9fd
+#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://postimg.cc/hzDtPMJS" ,ESPN 3 Argentina [1080]  b9fd
 http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 2 Uruguay [1080]  e40b
+#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://postimg.cc/hzDtPMJS" ,ESPN 2 Uruguay [1080]  e40b
 http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 3 Uruguay [1080]  b97f
+#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://postimg.cc/hzDtPMJS" ,ESPN 3 Uruguay [1080]  b97f
 http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN Extra Uruguay [1080]  9c3f
+#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://postimg.cc/hzDtPMJS" ,ESPN Extra Uruguay [1080]  9c3f
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN HD [US]  4b49
+#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://postimg.cc/hzDtPMJS" ,ESPN HD [US]  4b49
 http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 2 [BE]  3e0b
+#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://postimg.cc/hzDtPMJS" ,ESPN 2 [BE]  3e0b
 http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport1 (UK) [1080]  ab2b
+#EXTINF:-1 group-title="Otros" tvg-id="BT Sport" tvg-logo="https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png" ,BT Sport1 (UK) [1080]  ab2b
 http://127.0.0.1:6878/ace/getstream?id=ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport1 (UK) [1080]  efc6
+#EXTINF:-1 group-title="Otros" tvg-id="BT Sport" tvg-logo="https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png" ,BT Sport1 (UK) [1080]  efc6
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport2 (UK [1080])  d63d
+#EXTINF:-1 group-title="Otros" tvg-id="BT Sport" tvg-logo="https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png" ,BT Sport2 (UK [1080])  d63d
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport3 (UK) [1080]  5f96
+#EXTINF:-1 group-title="Otros" tvg-id="BT Sport" tvg-logo="https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png" ,BT Sport3 (UK) [1080]  5f96
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport4 (UK) [1080]  fc50
+#EXTINF:-1 group-title="Otros" tvg-id="BT Sport" tvg-logo="https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png" ,BT Sport4 (UK) [1080]  fc50
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport5 (UK) [1080]  c300
+#EXTINF:-1 group-title="Otros" tvg-id="BT Sport" tvg-logo="https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png" ,BT Sport5 (UK) [1080]  c300
 http://127.0.0.1:6878/ace/getstream?id=c300ecb07d854c1730b04ea022c3fb0a184d7801
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport6 (UK) [1080]  e1d7
+#EXTINF:-1 group-title="Otros" tvg-id="BT Sport" tvg-logo="https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png" ,BT Sport6 (UK) [1080]  e1d7
 http://127.0.0.1:6878/ace/getstream?id=e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sport F1 [1080]  55a7
+#EXTINF:-1 group-title="Otros" tvg-id="Sky Sport" tvg-logo="https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png" ,Sky Sport F1 [1080]  55a7
 http://127.0.0.1:6878/ace/getstream?id=55a762c1e48db88542771a476c65ffc309bd7262
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sport F1  3251
+#EXTINF:-1 group-title="Otros" tvg-id="Sky Sport" tvg-logo="https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png" ,Sky Sport F1  3251
 http://127.0.0.1:6878/ace/getstream?id=3251c61c831ddeae6b7feeae704a3f6c5c975e02
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sport F1  2871
+#EXTINF:-1 group-title="Otros" tvg-id="Sky Sport" tvg-logo="https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png" ,Sky Sport F1  2871
 http://127.0.0.1:6878/ace/getstream?id=28710e9057927317c869b11d669c28a4d77a6ab3
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sport Football (UK)  8dbe
+#EXTINF:-1 group-title="Otros" tvg-id="Sky Sport" tvg-logo="https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png" ,Sky Sport Football (UK)  8dbe
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sport Main Event (UK)  eab7
+#EXTINF:-1 group-title="Otros" tvg-id="Sky Sport" tvg-logo="https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png" ,Sky Sport Main Event (UK)  eab7
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ViaPlay Sports 1  75a5
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
@@ -315,27 +315,27 @@ http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 group-title="Otros" tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS XtraÑ  92a7
 http://127.0.0.1:6878/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Eleven Sport 1 (BE)  36ca
+#EXTINF:-1 group-title="Otros" tvg-id="Eleven Sport" tvg-logo="https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png" ,Eleven Sport 1 (BE)  36ca
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Eleven Sport 2 (PL)  54a4
+#EXTINF:-1 group-title="Otros" tvg-id="Eleven Sport" tvg-logo="https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png" ,Eleven Sport 2 (PL)  54a4
 http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Eleven Sport 3 (PL)  b146
+#EXTINF:-1 group-title="Otros" tvg-id="Eleven Sport" tvg-logo="https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png" ,Eleven Sport 3 (PL)  b146
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Eleven Sport 4 (PL)  458a
+#EXTINF:-1 group-title="Otros" tvg-id="Eleven Sport" tvg-logo="https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png" ,Eleven Sport 4 (PL)  458a
 http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Extreme Sports 1  fc29
+#EXTINF:-1 group-title="Otros" tvg-id="Extreme Sports" tvg-logo="https://i.postimg.cc/3NCP0Gkh/Logo-extreme-canal.png" ,Extreme Sports 1  fc29
 http://127.0.0.1:6878/ace/getstream?id=fc29afec151a8097ba65241acf3e0da791850e6c
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Extreme Sports 2  5623
+#EXTINF:-1 group-title="Otros" tvg-id="Extreme Sports" tvg-logo="https://i.postimg.cc/3NCP0Gkh/Logo-extreme-canal.png" ,Extreme Sports 2  5623
 http://127.0.0.1:6878/ace/getstream?id=56239e8c8257170861da94a32a86d59c716a7071
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Extreme Sports 3 (PL)  73ff
+#EXTINF:-1 group-title="Otros" tvg-id="Extreme Sports" tvg-logo="https://i.postimg.cc/3NCP0Gkh/Logo-extreme-canal.png" ,Extreme Sports 3 (PL)  73ff
 http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Red Bull  62da
+#EXTINF:-1 group-title="Otros" tvg-id="Red Bull" tvg-logo="https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png" ,Red Bull  62da
 http://127.0.0.1:6878/ace/getstream?id=62daab1c54565d0c5ba4e3c660f3a4a5c93adc8a
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Red Bull TV  f1e1
+#EXTINF:-1 group-title="Otros" tvg-id="Red Bull" tvg-logo="https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png" ,Red Bull TV  f1e1
 http://127.0.0.1:6878/ace/getstream?id=f1e1e9cce7297a749a5bb2e75c1520f9ce73a83b
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Red Bull TV HD  647d
+#EXTINF:-1 group-title="Otros" tvg-id="Red Bull" tvg-logo="https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png" ,Red Bull TV HD  647d
 http://127.0.0.1:6878/ace/getstream?id=647d19df70ee35100d0e95bc62ddebeebec1fabb
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Red Bull TV UHD  fefd
+#EXTINF:-1 group-title="Otros" tvg-id="Red Bull" tvg-logo="https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png" ,Red Bull TV UHD  fefd
 http://127.0.0.1:6878/ace/getstream?id=fefd91766cef2af2bf4ded328633fb01051d6df9
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,RED BULL TV (2+)  a027
+#EXTINF:-1 group-title="Otros" tvg-id="Red Bull" tvg-logo="https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png" ,RED BULL TV (2+)  a027
 http://127.0.0.1:6878/ace/getstream?id=a0270364634d9c49279ba61ae3d8467809fb7095
