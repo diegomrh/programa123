@@ -135,8 +135,24 @@ http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 http://127.0.0.1:6878/ace/getstream?id=688cc3af0f517c598e07d35f1ce79f8bcba17d81
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" ,M. Golf2 1080  0742
 http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN  6002
+http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN Argentina [1080]  2492
+http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 3 Argentina [1080]  b9fd
+http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 2 Uruguay [1080]  e40b
+http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 3 Uruguay [1080]  b97f
+http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN Extra Uruguay [1080]  9c3f
+http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN DEPORTES  3ce7
 http://127.0.0.1:6878/ace/getstream?id=3ce776c6eac31081239903cd45c152b27f95af63
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN HD [US]  4b49
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 2 [BE]  3e0b
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga Hypermotion 1080  4c46
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga Hypermotion 720  06b3
@@ -245,8 +261,6 @@ http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros" tvg-id="Esport 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN  6002
-http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 3  1629
 http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 4  e454
@@ -261,20 +275,6 @@ http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
 http://127.0.0.1:6878/ace/getstream?id=d644f9276c8c204882ccc4e80cc26f7986830be8
 #EXTINF:-1 group-title="Otros" tvg-id="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" ,REAL MADRID TV [1080]  0ec3
 http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN Argentina [1080]  2492
-http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 3 Argentina [1080]  b9fd
-http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 2 Uruguay [1080]  e40b
-http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 3 Uruguay [1080]  b97f
-http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN Extra Uruguay [1080]  9c3f
-http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN HD [US]  4b49
-http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Otros" tvg-id="ESPN Deportes" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" ,ESPN 2 [BE]  3e0b
-http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 group-title="Otros" tvg-id="BT Sport" tvg-logo="https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png" ,BT Sport1 (UK) [1080]  ab2b
 http://127.0.0.1:6878/ace/getstream?id=ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
 #EXTINF:-1 group-title="Otros" tvg-id="BT Sport" tvg-logo="https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png" ,BT Sport1 (UK) [1080]  efc6
