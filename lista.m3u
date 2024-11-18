@@ -103,7 +103,7 @@ http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
 http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga Hypermotion 2 720  0a33
 http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga Hypermotion 3  2019
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga Hypermotion 3  2019
 http://127.0.0.1:6878/ace/getstream?id=20196007a6697a1f11589fd4c8bab6713c265e64
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,EuroSport 1 1080  5e4c
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
@@ -119,7 +119,7 @@ http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 http://127.0.0.1:6878/ace/getstream?id=4a714c436cb67d53cf197f9038239fddab2d8b20
 #EXTINF:-1 group-title="Otros" tvg-id="MOVISTAR PLUS+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" ,M.Plus 1080  56ac
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title="Otros" tvg-id="FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" ,FOX SPORTS  6994
+#EXTINF:-1 group-title="Otros" tvg-id="FOX SPORTS" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" ,FOX SPORTS  6994
 http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 2  7cf4
 http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
