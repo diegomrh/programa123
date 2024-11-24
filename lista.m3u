@@ -67,13 +67,13 @@ http://127.0.0.1:6878/ace/getstream?id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e
 http://127.0.0.1:6878/ace/getstream?id=df7d145fcaf0566db4098d2f10236185d92bc9fd
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" ,M.L. Campeones 13 SD  bdfe
 http://127.0.0.1:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804
-#EXTINF:-1 group-title="DAZN F1" tvg-id="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,DAZN F1 1080 (Fórmula 1)  d628
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 1080 (Fórmula 1)  d628
 http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
-#EXTINF:-1 group-title="DAZN F1" tvg-id="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,DAZN F1 1080 (Fórmula 1)  2c6e
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 1080 (Fórmula 1)  2c6e
 http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
-#EXTINF:-1 group-title="DAZN F1" tvg-id="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,DAZN F1 1080 (Fórmula 1)  71ee
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 1080 (Fórmula 1)  71ee
 http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
-#EXTINF:-1 group-title="DAZN F1" tvg-id="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,DAZN F1 720 (Fórmula 1)  2682
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 720 (Fórmula 1)  2682
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" ,DAZN 1 1080  7cf0
 http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
