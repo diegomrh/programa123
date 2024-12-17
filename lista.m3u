@@ -139,7 +139,7 @@ http://127.0.0.1:6878/ace/getstream?id=61b9b271c16f970aab43cb753c5f8be181dceece
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title="Otros" tvg-id="FOX SPORTS" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" ,FOX SPORTS  6994
 http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006
-#EXTINF:-1 group-title="Otros" tvg-id="M+ PopUp 2" tvg-logo="Otros" ,M+ PopUp 2  7cf4
+#EXTINF:-1 group-title="Otros" tvg-id="M+ PopUp 2" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ PopUp 2  7cf4
 http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
-#EXTINF:-1 group-title="Otros" tvg-id="PPVP 3" tvg-logo="Otros" ,PPVP 3  ad6f
+#EXTINF:-1 group-title="Otros" tvg-id="PPVP 3" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 3  ad6f
 http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
