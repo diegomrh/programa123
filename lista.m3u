@@ -273,7 +273,7 @@ http://127.0.0.1:6878/ace/getstream?id=0ab6bab2334d442b68671cc86c4243f2b0bf1290
 http://127.0.0.1:6878/ace/getstream?id=bf270b6486daf3a2aa54bc027fd7cb02401a447a
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Clásicos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCLAS.png" ,M+ CLASICOS HD   26c6
 http://127.0.0.1:6878/ace/getstream?id=26c63851b7a0de9efed907571b19d342fc8d6765
-#EXTINF:-1 group-title="Otros" tvg-id="De Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" ,M+ SERIES HD   1476
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Hits HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD HD   1476
 http://127.0.0.1:6878/ace/getstream?id=14767834db41c572ab83b80f7eadc3ba78a2ced0
 #EXTINF:-1 group-title="Otros" tvg-id="NFL Network" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,NBA NETWORK   8aa5
 http://127.0.0.1:6878/ace/getstream?id=8aa5c652b7e8e94c45e37eb5b60aef9dcd37839e
