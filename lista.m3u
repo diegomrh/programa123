@@ -205,6 +205,8 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 http://127.0.0.1:6878/ace/getstream?id=b401da8e5a918fb0532ddfc2f55374a3d49ea183
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" ,DAZN 2 HD  496e
 http://127.0.0.1:6878/ace/getstream?id=496ef60d6a65c168a537038334e0ecf6db91d718
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" ,DAZN 2 HD  d67b
+http://127.0.0.1:6878/ace/getstream?id=d67bd4fddb4dfbb7e155770e344a135fc54bd3db
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" ,DAZN 2 HD  ca92
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" ,DAZN 2 HD  a929
@@ -221,8 +223,6 @@ http://127.0.0.1:6878/ace/getstream?id=07ce8be6726e067b28f73919f6df1c54d8cbe27a
 http://127.0.0.1:6878/ace/getstream?id=f1c939e1d19038c32735742ae1e982ff21025ccb
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" ,DAZN 4 HD  4e83
 http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 BAR" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,DAZN 2 BAR  d67b
-http://127.0.0.1:6878/ace/getstream?id=d67bd4fddb4dfbb7e155770e344a135fc54bd3db
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN EVENTOS 1" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,DAZN EVENTOS 1  dc6c
 http://127.0.0.1:6878/ace/getstream?id=dc6c777a776864868e55f61f2321e8373e54925d
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN EVENTOS 2" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,DAZN EVENTOS 2  79cf
