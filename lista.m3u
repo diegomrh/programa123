@@ -314,6 +314,10 @@ plugin://script.module.horus?action=play&id=23a4937f1484b435af132dbfb3e8fd3aefc9
 plugin://script.module.horus?action=play&id=9d40122f58b904afc78b971aa287a31c1003cd7d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="Eurosport", EUROSPORT 2 --> NEW ERA IV
 plugin://script.module.horus?action=play&id=ca4860d9998d63029dcf08c6f5dfc2102c01be4e
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,Eurosport 1 HD  16ff
+plugin://script.module.horus?action=play&id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,Eurosport 2  9878
+plugin://script.module.horus?action=play&id=98784fa0714190de289f42eb5b84e405df7e685a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png" tvg-id="DAZN BUNDESLIGA 1 HD" group-title="Bundesliga", DAZN BUNDESLIGA 1 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=f2b903b4b286c2cfecc23ebea66a412ec887da45
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/170px-2._Bundesliga_logo.svg.png" tvg-id="DAZN BUNDESLIGA 2 HD" group-title="Bundesliga", DAZN BUNDESLIGA 2 FHD --> NEW ERA
@@ -470,10 +474,6 @@ plugin://script.module.horus?action=play&id=d8c2ed470e847154a88f011137cc206319f6
 plugin://script.module.horus?action=play&id=f41f1096862767289620be5bd85727f946a434db
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Golf 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" ,M+ Golf 2 HD  e258
 plugin://script.module.horus?action=play&id=e258e75e0e802afa5fcc53d46b47d8801a254ad5
-#EXTINF:-1 group-title="Otros" tvg-id="Eurosport 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,Eurosport 1 HD  16ff
-plugin://script.module.horus?action=play&id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title="Otros" tvg-id="Eurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,Eurosport 2  9878
-plugin://script.module.horus?action=play&id=98784fa0714190de289f42eb5b84e405df7e685a
 #EXTINF:-1 group-title="Otros" tvg-id="Teledeporte" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte  61b9
 plugin://script.module.horus?action=play&id=61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 group-title="Otros" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,M+ LaLiga TV 3 HD  ebe1
