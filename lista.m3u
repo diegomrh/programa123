@@ -426,28 +426,6 @@ plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd
 plugin://script.module.horus?action=play&id=cd485af78cf86934d77cf867f73fe7f5cd32981a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="MAX UFC PPV" group-title="Otros", MAX UFC PPV --> NEW ERA IV
 plugin://script.module.horus?action=play&id=405f4975c759816fbc6606eeb990666f1853dfe2
-#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 HD  b9a8
-plugin://script.module.horus?action=play&id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
-#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 HD  4a71
-plugin://script.module.horus?action=play&id=4a714c436cb67d53cf197f9038239fddab2d8b20
-#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco HD  66a7
-plugin://script.module.horus?action=play&id=66a7e4727bccce8ccc04e54861b06b62d89452fa
-#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco HD  47e6
-plugin://script.module.horus?action=play&id=47e6dd48dd7c9705d07b13139b80e44683fd5eb1
-#EXTINF:-1 group-title="Otros" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" ,Movistar Plus+ HD  56ac
-plugin://script.module.horus?action=play&id=56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title="Otros" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos HD  d03c
-plugin://script.module.horus?action=play&id=d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title="Otros" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos HD  12ba
-plugin://script.module.horus?action=play&id=12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV Hypermotion HD  b270
-plugin://script.module.horus?action=play&id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV Hypermotion HD  121f
-plugin://script.module.horus?action=play&id=121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV Hypermotion 2  0cfd
-plugin://script.module.horus?action=play&id=0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV Hypermotion 2  0a33
-plugin://script.module.horus?action=play&id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones HD  0a26
 plugin://script.module.horus?action=play&id=0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones HD  775a
@@ -466,24 +444,6 @@ plugin://script.module.horus?action=play&id=abdf9058786a48623d0de51a3adb414ae10b
 plugin://script.module.horus?action=play&id=3618edda333dad5374ac2c801f5f14483934b97d
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 HD  0b34
 plugin://script.module.horus?action=play&id=0b348cc1ae499e810729661878764a0fab88ab69
-#EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes HD  55d4
-plugin://script.module.horus?action=play&id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes HD  3a74
-plugin://script.module.horus?action=play&id=3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" ,M+ Deportes 2 HD  639c
-plugin://script.module.horus?action=play&id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" ,M+ Deportes 3  571b
-plugin://script.module.horus?action=play&id=571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 group-title="Otros" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" ,M+ Ellas Vamos HD  d8c2
-plugin://script.module.horus?action=play&id=d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title="Otros" tvg-id="M+ Golf HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" ,M+ Golf HD  f41f
-plugin://script.module.horus?action=play&id=f41f1096862767289620be5bd85727f946a434db
-#EXTINF:-1 group-title="Otros" tvg-id="M+ Golf 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" ,M+ Golf 2 HD  e258
-plugin://script.module.horus?action=play&id=e258e75e0e802afa5fcc53d46b47d8801a254ad5
-#EXTINF:-1 group-title="Otros" tvg-id="Teledeporte" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte  61b9
-plugin://script.module.horus?action=play&id=61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga TV Hypermotion 3  fefd
-plugin://script.module.horus?action=play&id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" ,M+ Liga de Campeones 4  65a1
 plugin://script.module.horus?action=play&id=65a18a6bd83918a9586b673fec12405aaf4e9f7d
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" ,M+ Liga de Campeones 5  1174
@@ -504,6 +464,46 @@ plugin://script.module.horus?action=play&id=a12a16f74cf12799d4475ae867dc61eb60e1
 plugin://script.module.horus?action=play&id=df7d145fcaf0566db4098d2f10236185d92bc9fd
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Liga de Campeones 13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" ,M+ Liga de Campeones 13  bdfe
 plugin://script.module.horus?action=play&id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos HD  d03c
+plugin://script.module.horus?action=play&id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos HD  12ba
+plugin://script.module.horus?action=play&id=12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 HD  b9a8
+plugin://script.module.horus?action=play&id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
+#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 HD  4a71
+plugin://script.module.horus?action=play&id=4a714c436cb67d53cf197f9038239fddab2d8b20
+#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco HD  66a7
+plugin://script.module.horus?action=play&id=66a7e4727bccce8ccc04e54861b06b62d89452fa
+#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco HD  47e6
+plugin://script.module.horus?action=play&id=47e6dd48dd7c9705d07b13139b80e44683fd5eb1
+#EXTINF:-1 group-title="Otros" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" ,Movistar Plus+ HD  56ac
+plugin://script.module.horus?action=play&id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV Hypermotion HD  b270
+plugin://script.module.horus?action=play&id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV Hypermotion HD  121f
+plugin://script.module.horus?action=play&id=121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV Hypermotion 2  0cfd
+plugin://script.module.horus?action=play&id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV Hypermotion 2  0a33
+plugin://script.module.horus?action=play&id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes HD  55d4
+plugin://script.module.horus?action=play&id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes HD  3a74
+plugin://script.module.horus?action=play&id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" ,M+ Deportes 2 HD  639c
+plugin://script.module.horus?action=play&id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" ,M+ Deportes 3  571b
+plugin://script.module.horus?action=play&id=571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" ,M+ Ellas Vamos HD  d8c2
+plugin://script.module.horus?action=play&id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Golf HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" ,M+ Golf HD  f41f
+plugin://script.module.horus?action=play&id=f41f1096862767289620be5bd85727f946a434db
+#EXTINF:-1 group-title="Otros" tvg-id="M+ Golf 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" ,M+ Golf 2 HD  e258
+plugin://script.module.horus?action=play&id=e258e75e0e802afa5fcc53d46b47d8801a254ad5
+#EXTINF:-1 group-title="Otros" tvg-id="Teledeporte" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte  61b9
+plugin://script.module.horus?action=play&id=61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga TV Hypermotion 3  fefd
+plugin://script.module.horus?action=play&id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" ,M+ Deportes 4  b4d1
 plugin://script.module.horus?action=play&id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 #EXTINF:-1 group-title="Otros" tvg-id="M+ Deportes 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" ,M+ Deportes 5  fcc0
