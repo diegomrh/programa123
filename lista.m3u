@@ -512,7 +512,7 @@ plugin://script.module.horus?action=play&id=47e6dd48dd7c9705d07b13139b80e44683fd
 plugin://script.module.horus?action=play&id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title="Otros" tvg-id="Teledeporte" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte  61b9
 plugin://script.module.horus?action=play&id=61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title="Otros" tvg-id="FOX SPORTS" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" ,FOX SPORTS  6994
+#EXTINF:-1 group-title="Otros" tvg-id="FOX SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/771/389/png-clipart-fox-sports-networks-fox-sports-1-broadcasting-sports-logo-emblem-text.png" ,FOX SPORTS  6994
 plugin://script.module.horus?action=play&id=6994af284ecab2996f9b140ef44b8da8bfee0006
 #EXTINF:-1 group-title="Otros" tvg-id="PPVP 2" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 2  7cf4
 plugin://script.module.horus?action=play&id=7cf437be950f3525e735be57c63f7824cab822c9
