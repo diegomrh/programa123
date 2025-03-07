@@ -450,6 +450,14 @@ plugin://script.module.horus?action=play&id=154c6f876ddf1d9c87880eae0d0442335ec1
 plugin://script.module.horus?action=play&id=a4378aa93f9f436cfd1654160991f554e5395d88
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="TDT", GOL PLAY --> NEW ERA IV
 plugin://script.module.horus?action=play&id=5fe1d33db9ebe08cea0b27af064f068102b31831
+#EXTINF:-1 group-title="TDT" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 HD  b9a8
+plugin://script.module.horus?action=play&id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
+#EXTINF:-1 group-title="TDT" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 HD  4a71
+plugin://script.module.horus?action=play&id=4a714c436cb67d53cf197f9038239fddab2d8b20
+#EXTINF:-1 group-title="TDT" tvg-id="Telecinco HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco HD  66a7
+plugin://script.module.horus?action=play&id=66a7e4727bccce8ccc04e54861b06b62d89452fa
+#EXTINF:-1 group-title="TDT" tvg-id="Telecinco HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco HD  47e6
+plugin://script.module.horus?action=play&id=47e6dd48dd7c9705d07b13139b80e44683fd5eb1
 #EXTINF:-1 group-title="TDT" tvg-id="Teledeporte" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte  61b9
 plugin://script.module.horus?action=play&id=61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="Antena Motor" group-title="Motor", Canal Motor (720p) --> NEW LOOP
@@ -502,14 +510,6 @@ plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd
 plugin://script.module.horus?action=play&id=cd485af78cf86934d77cf867f73fe7f5cd32981a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="MAX UFC PPV" group-title="Otros", MAX UFC PPV --> NEW ERA IV
 plugin://script.module.horus?action=play&id=405f4975c759816fbc6606eeb990666f1853dfe2
-#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 HD  b9a8
-plugin://script.module.horus?action=play&id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
-#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1 HD  4a71
-plugin://script.module.horus?action=play&id=4a714c436cb67d53cf197f9038239fddab2d8b20
-#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco HD  66a7
-plugin://script.module.horus?action=play&id=66a7e4727bccce8ccc04e54861b06b62d89452fa
-#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco HD  47e6
-plugin://script.module.horus?action=play&id=47e6dd48dd7c9705d07b13139b80e44683fd5eb1
 #EXTINF:-1 group-title="Otros" tvg-id="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" ,Movistar Plus+ HD  56ac
 plugin://script.module.horus?action=play&id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title="Otros" tvg-id="FOX SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/771/389/png-clipart-fox-sports-networks-fox-sports-1-broadcasting-sports-logo-emblem-text.png" ,FOX SPORTS  6994
