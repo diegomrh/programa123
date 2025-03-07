@@ -40,6 +40,8 @@ plugin://script.module.horus?action=play&id=51dbbfb42f8091e4ea7a2186b566a40e7809
 plugin://script.module.horus?action=play&id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="M+ LaLiga", DAZN LA LIGA 2 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=fb51ef5294e99767811a3fa95a1933fb864e9ff3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="M+ LaLiga", M. LaLiga --> NEW LOOP
+plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD  d3de
 plugin://script.module.horus?action=play&id=d3de78aebe544611a2347f54d5796bd87f16c92d
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD  6d05
@@ -67,7 +69,7 @@ plugin://script.module.horus?action=play&id=0a335406bad0b658aeddb2d38f8c0614b2e5
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga TV Hypermotion 3  fefd
 plugin://script.module.horus?action=play&id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="M+ Champions", M+ LIGA DE CAMPEONES FHD --> NEW ERA II
-plugin://script.module.horus?action=play&id=91122954ad2d38568a3c9dd1fbaba1187e8521ff
+plugin://script.module.horus?action=play&id=ec6ce96a4e4eb523108418a84babc9eca4b4c507
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="M+ Champions", M.L. CAMPEONES 2
 plugin://script.module.horus?action=play&id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="M+ Champions", M+ LIGA DE CAMPEONES FHD (1 opcion) --> NEW ERA
@@ -128,8 +130,6 @@ plugin://script.module.horus?action=play&id=7a5512d101742eb418dd0e3ffbd2bf6c43c7
 plugin://script.module.horus?action=play&id=7c3791bfaf9b4b215cc63fa2d61902f9bf3da7ff
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="M+ Champions", M+ LIGA DE CAMPEONES FHD (2 opcion) --> NEW ERA
 plugin://script.module.horus?action=play&id=ba87f528de030aad56576f7cbb9d8bbd7efd62b9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="M+ Champions", M. Liga de Campeones --> NEW LOOP
-plugin://script.module.horus?action=play&id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="M+ Champions", M. Liga de Campeones --> NEW LOOP
 plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones HD  0a26
@@ -205,9 +205,7 @@ plugin://script.module.horus?action=play&id=5d8613b5fde87f366bb5e41ac8011007a4c6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="DAZN F1", DAZN F1 FHD (*) --> NEW ERA
 plugin://script.module.horus?action=play&id=751aa1f2429dfb9484b67a3ede00d859c6212994
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="DAZN F1", DAZN FORMULA 1* --> NEW ERA III
-plugin://script.module.horus?action=play&id=073d33a5e5270399154bb251fcc95f99c0741264
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="DAZN F1", DAZN FORMULA 1 FHDÂ©ï¸ --> NEW LOOP
-plugin://script.module.horus?action=play&id=073d33a5e5270399154bb251fcc95f99c0741264
+plugin://script.module.horus?action=play&id=8b4e4be1d0901fc8ac0819b59b0a70d73618c7e0
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 HD  d628
 plugin://script.module.horus?action=play&id=d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1 HD  2c6e
@@ -249,7 +247,7 @@ plugin://script.module.horus?action=play&id=5c7406bfaf65cc32d3f52b1430b53a37bc4c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD (*) --> NEW ERA
 plugin://script.module.horus?action=play&id=b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1* --> NEW ERA III
-plugin://script.module.horus?action=play&id=44c12ecb7b00a961f3c3f80f1edea7f8feedec59
+plugin://script.module.horus?action=play&id=05dc5ce12eb6329fad1fae4430b8742b47cb90d9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN1 --> NEW LOOP
 plugin://script.module.horus?action=play&id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN2 --> NEW LOOP
@@ -258,8 +256,6 @@ plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2f
 plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN4 --> NEW LOOP
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", M+ DAZN 1 HDÂ©ï¸ --> NEW LOOP
-plugin://script.module.horus?action=play&id=44c12ecb7b00a961f3c3f80f1edea7f8feedec59
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD  110d
 plugin://script.module.horus?action=play&id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD  ec29
@@ -344,6 +340,8 @@ plugin://script.module.horus?action=play&id=a8745bd07dc60413a4fc05caf2cabbfb1195
 plugin://script.module.horus?action=play&id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+ Deportes", #VAMOS FHD (*) --> NEW ERA
 plugin://script.module.horus?action=play&id=6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+ Deportes", M. Deportes HD --> NEW LOOP
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="M+ Deportes", M. Golf HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+ Deportes", M+ Vamos --> NEW ERA IV
@@ -398,6 +396,8 @@ plugin://script.module.horus?action=play&id=95120cee8223e9af839994ecc2b96aef05f8
 plugin://script.module.horus?action=play&id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="Eurosport", Eurosport 1 HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=f5a5a5bf9903bde0c865e421f126c42e514ff787
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="Eurosport", Eurosport 1 HD --> NEW LOOP
+plugin://script.module.horus?action=play&id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="Eurosport", Eurosport 1 hd --> NEW LOOP
 plugin://script.module.horus?action=play&id=23a4937f1484b435af132dbfb3e8fd3aefc9baad
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="Eurosport", EUROSPORT 1 --> NEW ERA IV
@@ -450,10 +450,8 @@ plugin://script.module.horus?action=play&id=154c6f876ddf1d9c87880eae0d0442335ec1
 plugin://script.module.horus?action=play&id=a4378aa93f9f436cfd1654160991f554e5395d88
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="TDT", GOL PLAY --> NEW ERA IV
 plugin://script.module.horus?action=play&id=5fe1d33db9ebe08cea0b27af064f068102b31831
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="DE | Rally TV" group-title="Motor", RALLY TV* --> NEW ERA III
-plugin://script.module.horus?action=play&id=4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="AutoMotorSport" group-title="Motor", AutoMotorSport HD --> NEW LOOP
-plugin://script.module.horus?action=play&id=6791a2d1587e8c68eac10815f22aed439b0f6c9f
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="Antena Motor" group-title="Motor", Canal Motor (720p) --> NEW LOOP
+plugin://script.module.horus?action=play&id=31ef168d43c7cd04e672475f7ec33b99b9fe5a96
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="Motorvision TV" group-title="Motor", Motors TV HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=8d475e2688519f2c602687b71be54cedbaef9e6b
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id="Motorvision TV" group-title="Motor", Motorvision TV --> NEW LOOP
@@ -488,6 +486,8 @@ plugin://script.module.horus?action=play&id=c8aac540621d481965791c4442a7e868bcca
 plugin://script.module.horus?action=play&id=6ad33feec75d929de54d77b9becfe767ae83fcb3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="EVENTO UFC 1 —> NEW ERA" group-title="Otros", EVENTO UFC 1 —> NEW ERA
 plugin://script.module.horus?action=play&id=916888d956caf960cc8456eb46a12775a858124c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="SuperTennis" group-title="Otros", SuperTennis HD --> NEW LOOP
+plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="Otros", Tennis Channel (UK) (720p) --> NEW LOOP
 plugin://script.module.horus?action=play&id=52a526d748e26ff0827635b3932d9f49aee14a25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="Otros", Tennis Channel HD --> NEW LOOP
