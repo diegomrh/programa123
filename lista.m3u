@@ -23,9 +23,9 @@ plugin://script.module.horus?action=play&id=835639b89db00cc0d94660da3c10b6e38bfb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" tvg-id="M+ LaLiga TV 4" group-title="M+ LaLiga", M. LaLiga 4 1080
 plugin://script.module.horus?action=play&id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="M+ LaLiga", M. LaLiga --> NEW LOOP
-plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="M+ LaLiga", M. LaLiga --> NEW LOOP
 plugin://script.module.horus?action=play&id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="M+ LaLiga", M. LaLiga --> NEW LOOP
+plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="DAZN LaLiga", DAZN LaLiga 1080 MultiAudio
 plugin://script.module.horus?action=play&id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="DAZN LaLiga", DAZN LaLiga 1080 MultiAudio
@@ -314,8 +314,6 @@ plugin://script.module.horus?action=play&id=8e8cf5d0da2f30cd3b266344891a18ed6bac
 plugin://script.module.horus?action=play&id=95120cee8223e9af839994ecc2b96aef05f8a151
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="Eurosport", EUROSPORT 2 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="Eurosport", Eurosport 1 HD --> NEW LOOP
-plugin://script.module.horus?action=play&id=f5a5a5bf9903bde0c865e421f126c42e514ff787
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="Eurosport", EUROSPORT 1 --> NEW ERA IV
 plugin://script.module.horus?action=play&id=9d40122f58b904afc78b971aa287a31c1003cd7d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="Eurosport", EUROSPORT 2 --> NEW ERA IV
@@ -378,14 +376,10 @@ plugin://script.module.horus?action=play&id=47e6dd48dd7c9705d07b13139b80e44683fd
 plugin://script.module.horus?action=play&id=61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="AutoMotorSport" group-title="Motor", AutoMotorSport HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=6791a2d1587e8c68eac10815f22aed439b0f6c9f
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="Antena Motor" group-title="Motor", Canal Motor (720p) --> NEW LOOP
-plugin://script.module.horus?action=play&id=31ef168d43c7cd04e672475f7ec33b99b9fe5a96
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="Motorvision TV" group-title="Motor", Motors TV HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=8d475e2688519f2c602687b71be54cedbaef9e6b
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id="Motorvision TV" group-title="Motor", Motorvision TV --> NEW LOOP
 plugin://script.module.horus?action=play&id=fffaa64d41e500250064181762d510d513137410
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="Retrovision Motor" group-title="Motor", Retrovision Motor --> NEW LOOP
-plugin://script.module.horus?action=play&id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="Sky Sports", Sky Sports Arena [UK] --> NEW LOOP
 plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="Sky Sports", Sky Sports Cricket [UK] --> NEW LOOP
@@ -422,6 +416,8 @@ plugin://script.module.horus?action=play&id=916888d956caf960cc8456eb46a12775a858
 plugin://script.module.horus?action=play&id=75af1643ef22377d53e1a1faa984c0f9f5374249
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="SuperTennis" group-title="Otros", SuperTennis HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="Otros", Tennis Channel (UK) (720p) --> NEW LOOP
+plugin://script.module.horus?action=play&id=52a526d748e26ff0827635b3932d9f49aee14a25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="Otros", Tennis Channel HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="Otros", ESPN HD [US] --> NEW LOOP
