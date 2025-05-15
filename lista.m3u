@@ -110,11 +110,11 @@ plugin://script.module.horus?action=play&id=c070cdb701fc46bb79d17568d99fc6462044
 plugin://script.module.horus?action=play&id=3618edda333dad5374ac2c801f5f14483934b97d
 #EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 HD
 plugin://script.module.horus?action=play&id=0b348cc1ae499e810729661878764a0fab88ab69
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" ,M+ Liga de Campeones 4
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 HD
 plugin://script.module.horus?action=play&id=65a18a6bd83918a9586b673fec12405aaf4e9f7d
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" ,M+ Liga de Campeones 5
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 HD
 plugin://script.module.horus?action=play&id=11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 11" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" ,M+ Liga de Campeones 11
+#EXTINF:-1 group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 HD
 plugin://script.module.horus?action=play&id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=6538b79ce0da657d8455d1da6a5f342398899a0e
