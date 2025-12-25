@@ -432,7 +432,7 @@ plugin://script.module.horus?action=play&id=ed6188dcbb491efeb2092c1a6199226c27f6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="Motorvision TV" group-title="MOTOR", MOTORS TV HD --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="Moto ADV" group-title="MOTOR", MOTORS TV HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="DE | Rally TV" group-title="MOTOR", RALLY TV FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
@@ -550,9 +550,9 @@ plugin://script.module.horus?action=play&id=ade70f2c51cca519a4d8de1bb181af6e8532
 plugin://script.module.horus?action=play&id=4b18a3b32df5960ed950fa907f8d509b1ad2a188
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="MIXED TV" group-title="OTROS", MIXED TV (solo eventos) --> NEW ERA III
 plugin://script.module.horus?action=play&id=eb25ebc41fc51710b098f860b33b3229d11921b3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="M+ Cómic" group-title="OTROS", MOVISTAR COMIC FHD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" tvg-id="M+ Comedia HD" group-title="OTROS", MOVISTAR COMIC FHD --> NEW ERA VI
 plugin://script.module.horus?action=play&id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="M+ San Sebastián" group-title="OTROS", MOVISTAR FESTIVAL DE SAN SEBASTIAN FHD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="M+ FESTIVAL DE SAN SEBASTIAN HD" group-title="OTROS", MOVISTAR FESTIVAL DE SAN SEBASTIAN FHD --> NEW ERA VI
 plugin://script.module.horus?action=play&id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Sport%20NBA.png?raw=true" tvg-id="Sport NBA" group-title="OTROS", NBA TV --> NEW ERA
 plugin://script.module.horus?action=play&id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
