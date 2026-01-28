@@ -466,7 +466,7 @@ plugin://script.module.horus?action=play&id=53962d7fb865aff73b34a3afb2905cd492f6
 plugin://script.module.horus?action=play&id=22b702984a0db43fd371c30e2df150b2336551cd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="ACB EVENTO 03" group-title="OTROS", ACB EVENTO 03 --> ELCANO
 plugin://script.module.horus?action=play&id=02ec118ee4586d96df9115ffc486be9a499d00d9
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" tvg-id="DAZN 1 HD" group-title="OTROS", DAZN ACB 1 --> ELCANO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="DAZN 1 HD" group-title="OTROS", DAZN ACB 1 --> ELCANO
 plugin://script.module.horus?action=play&id=7af3d01607359fd1777de3d34d8d505ee5591b82
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="DAZN Baloncesto" group-title="OTROS", DAZN BALONCESTO FHD --> NEW ERA VI
 plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
@@ -596,5 +596,5 @@ plugin://script.module.horus?action=play&id=fce354f24fe26ca527e2c38b14eb7b0c81f7
 plugin://script.module.horus?action=play&id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="Хоккейный" group-title="OTROS", Хоккейный HD (RU) --> SPORT TV
 plugin://script.module.horus?action=play&id=99f0646986e9266836dd79047dedecb04e243857
-#EXTINF:-1 group-title="OTROS" tvg-id="NBA" tvg-logo="https://i.postimg.cc/SKjPkzTN/Logo-NBA.png" ,NBA
+#EXTINF:-1 group-title="OTROS" tvg-id="NBA" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,NBA
 plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
