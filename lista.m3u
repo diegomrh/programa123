@@ -554,7 +554,7 @@ plugin://script.module.horus?action=play&id=eb25ebc41fc51710b098f860b33b3229d119
 plugin://script.module.horus?action=play&id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="M+ FESTIVAL DE SAN SEBASTIAN HD" group-title="OTROS", MOVISTAR FESTIVAL DE SAN SEBASTIAN FHD --> NEW ERA VI
 plugin://script.module.horus?action=play&id=cf99e99c105162410ec6d1f68cc6f4811560fee7
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Sport%20NBA.png?raw=true" tvg-id="Sport NBA" group-title="OTROS", NBA TV --> NEW ERA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKjPkzTN/Logo-NBA.png" tvg-id="NBA" group-title="OTROS", NBA TV --> NEW ERA
 plugin://script.module.horus?action=play&id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="Garage TV" group-title="OTROS", Orange TV --> NEW LOOP
 plugin://script.module.horus?action=play&id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
