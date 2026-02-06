@@ -316,31 +316,31 @@ plugin://script.module.horus?action=play&id=86495fe134ff065d5217497babe6be33f81d
 plugin://script.module.horus?action=play&id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/TNT%20Sports%201.png" tvg-id="Magenta Sport 11" group-title="OTROS", Magenta Sport 11 HD (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/8madrid%20TV.png" tvg-id="MIXED TV 2" group-title="OTROS", MIXED TV 2 (solo eventos) --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="MIXED TV 2" group-title="OTROS", MIXED TV 2 (solo eventos) --> NEW ERA III
 plugin://script.module.horus?action=play&id=aa6faf8d1fca70d1e79ca0a6647ac15fcecea2f6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="MIXED+" group-title="OTROS", MIXED+ (solo eventos) --> NEW ERA III
 plugin://script.module.horus?action=play&id=f183cf6c5336e109f0572ffe0b471f0f79d19cf7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Servus%20TV%20Motorsport.png" tvg-id="DE | Auto Motor Sport Ch." group-title="OTROS", Pluto TV Auto Motor Sport (720p) --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="DE | Auto Motor Sport Ch." group-title="OTROS", Pluto TV Auto Motor Sport (720p) --> NEW LOOP
 plugin://script.module.horus?action=play&id=ffa09e597804001f634dd1829f031823411a2595
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 1" group-title="OTROS", RTL+ SPORT EVENT 1 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 1" group-title="OTROS", RTL+ SPORT EVENT 1 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 2" group-title="OTROS", RTL+ SPORT EVENT 2 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 2" group-title="OTROS", RTL+ SPORT EVENT 2 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 3" group-title="OTROS", RTL+ SPORT EVENT 3 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 3" group-title="OTROS", RTL+ SPORT EVENT 3 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 4" group-title="OTROS", RTL+ SPORT EVENT 4 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 4" group-title="OTROS", RTL+ SPORT EVENT 4 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 5" group-title="OTROS", RTL+ SPORT EVENT 5 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 5" group-title="OTROS", RTL+ SPORT EVENT 5 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=81284e9a279ee23cbc4a7400bd9531f127d20fe5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 6" group-title="OTROS", RTL+ SPORT EVENT 6 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 6" group-title="OTROS", RTL+ SPORT EVENT 6 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 7" group-title="OTROS", RTL+ SPORT EVENT 7 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 7" group-title="OTROS", RTL+ SPORT EVENT 7 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=eec3f8107e008cec3679f76e078deeefd1348a3e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 8" group-title="OTROS", RTL+ SPORT EVENT 8 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 8" group-title="OTROS", RTL+ SPORT EVENT 8 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=ce4ae0c3491acd4272340029139ba25642e2516b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 9" group-title="OTROS", RTL+ SPORT EVENT 9 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 9" group-title="OTROS", RTL+ SPORT EVENT 9 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=a435581e6cba56972e48cf4519d1b2af735eec2f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Top%20Event.png" tvg-id="RTL+ SPORT EVENT 10" group-title="OTROS", RTL+ SPORT EVENT 10 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="RTL+ SPORT EVENT 10" group-title="OTROS", RTL+ SPORT EVENT 10 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=e6cce13cb4005ec3c7d77db47865385927a7ab7e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="Setanta Live 1" group-title="OTROS", Setanta Live 1 (RU) --> SPORT TV
 plugin://script.module.horus?action=play&id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
