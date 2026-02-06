@@ -114,7 +114,7 @@ plugin://script.module.horus?action=play&id=55ff9ee631af351f365f51cf3601695bf1fd
 plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Caza%20y%20Pesca.png" tvg-id="Caza y Pesca HD" group-title="MOVISTAR", CAZA Y PESCA FHD HD --> NEW ERA III
 plugin://script.module.horus?action=play&id=277a6fb47189db801c5b7b05ad89c690571f3e9c
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DARK.png?raw=true" tvg-id="DARK" group-title="MOVISTAR", DARK HD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DARK.png" tvg-id="DARK" group-title="MOVISTAR", DARK HD --> NEW ERA III
 plugin://script.module.horus?action=play&id=25465ea2deba65c623b7659136abf6fcc9f5dc20
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Acci%C3%B3n.png" tvg-id="M+ Acción HD" group-title="MOVISTAR", MOVISTAR ACCION FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
@@ -236,7 +236,7 @@ plugin://script.module.horus?action=play&id=4b048bcfaed7daec454e88f0e29b56756300
 plugin://script.module.horus?action=play&id=cc5ed178702605513cd18b4899c4be954d306cca
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Arag%C3%B3n%20TV%20Internacional.png?raw=true" tvg-id="Aragón TV" group-title="TDT", ARAGON TV HD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Arag%C3%B3n%20TV.png" tvg-id="Aragón TV" group-title="TDT", ARAGON TV HD --> NEW ERA
 plugin://script.module.horus?action=play&id=ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
