@@ -57,8 +57,6 @@ plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b64
 plugin://script.module.horus?action=play&id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> SPORT TV
 plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD --> NEW ERA
-plugin://script.module.horus?action=play&id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD --> NEW ERA II
 plugin://script.module.horus?action=play&id=4b18a3b32df5960ed950fa907f8d509b1ad2a188
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD --> NEW ERA II
@@ -265,8 +263,6 @@ plugin://script.module.horus?action=play&id=b8b8c4470d3d27c75302cf49ab6c4b52a660
 plugin://script.module.horus?action=play&id=e7ddca738693a902ce34fb80788b220676c15801
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png" tvg-id="beIN SPORTS XTRA ñ" group-title="OTROS", Bein Sports TR SDp * --> ELCANO
 plugin://script.module.horus?action=play&id=1e3451ef86d34c96aabece2ac7bcae70ba9ed767
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="CALCIO EVENTOS HD" group-title="OTROS", CALCIO EVENTOS FHD --> NEW ERA
-plugin://script.module.horus?action=play&id=1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="Esport3 HDp *" group-title="OTROS", Esport3 FHDp * --> ELCANO
 plugin://script.module.horus?action=play&id=21bc11d195f5753c396e390c215952d21541d04d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Esport%203.png" tvg-id="Esport 3" group-title="OTROS", Esport3 SDp * --> ELCANO
@@ -451,23 +447,23 @@ plugin://script.module.horus?action=play&id=cc7b8c39f70aa342248d02c8ab55bafdb411
 plugin://script.module.horus?action=play&id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%202.png" tvg-id="Eurosport 2" group-title="SPORT TV", Eurosport360 HD 2 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD" group-title="SPORT TV", Eurosport360 HD 3 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%202.png" tvg-id="Eurosport 2" group-title="SPORT TV", Eurosport360 HD 3 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD" group-title="SPORT TV", Eurosport360 HD 4 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%204K.png" tvg-id="Eurosport 4K" group-title="SPORT TV", Eurosport360 HD 4 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD" group-title="SPORT TV", Eurosport360 HD 5 (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%202.png" tvg-id="Eurosport 2" group-title="SPORT TV", Eurosport360 HD 5 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD" group-title="SPORT TV", Eurosport360 HD 6  (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%202.png" tvg-id="Eurosport 2" group-title="SPORT TV", Eurosport360 HD 6  (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD" group-title="SPORT TV", Eurosport360 HD 7  (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%202.png" tvg-id="Eurosport 2" group-title="SPORT TV", Eurosport360 HD 7  (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD" group-title="SPORT TV", Eurosport360 HD 8  (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%202.png" tvg-id="Eurosport 2" group-title="SPORT TV", Eurosport360 HD 8  (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=8f4f572005ca2557743474087aa622693ba9b5fe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD" group-title="SPORT TV", Eurosport 1 HD (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD" group-title="SPORT TV", Eurosport 1 HD (RU) --> SPORT TV
 plugin://script.module.horus?action=play&id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD" group-title="SPORT TV", Eurosport (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Eurosport%202.png" tvg-id="Eurosport 2" group-title="SPORT TV", Eurosport (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=314eb626864faf52e01624361bd6906b5406127f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Xtrem%20Sports.png" tvg-id="Extreme Sports" group-title="SPORT TV", Extreme Sports (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=73ff07648e367efebd94636047b07625f664a082
@@ -483,13 +479,13 @@ plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb
 plugin://script.module.horus?action=play&id=a7e4499c869037073c97deb47a50d1e7090b1c04
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD" group-title="SPORT TV", M. Deportes HD (ES) --> SPORT TV
 plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="DSPORTS+" group-title="SPORT TV", nSport+ (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="DSPORTS+" group-title="SPORT TV", nSport+ (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/FOX%20SPORTS.png" tvg-id="FOX SPORTS" group-title="SPORT TV", ORF SPORT+ HD (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="Polsat Sport" group-title="SPORT TV", Polsat Sport (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="Polsat Sport" group-title="SPORT TV", Polsat Sport (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="Polsat Sport Extra" group-title="SPORT TV", Polsat Sport Extra (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="Polsat Sport Extra" group-title="SPORT TV", Polsat Sport Extra (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="DSPORTS Fight" group-title="SPORT TV", Polsat Sport Fight (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=9e7fe279f421b734a8af9e68320955fd16f80b4b
@@ -507,7 +503,7 @@ plugin://script.module.horus?action=play&id=07cab7f4a1a4ecc0ed35bea52346f1b79b10
 plugin://script.module.horus?action=play&id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="DSPORTS" group-title="SPORT TV", SPORT1 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=1950633a3723cb52b17c764125decc04445bd5ff
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="DSPORTS+" group-title="SPORT TV", SPORT1+ (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="DSPORTS+" group-title="SPORT TV", SPORT1+ (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="DE | sportdigital" group-title="SPORT TV", Sport Digital (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
