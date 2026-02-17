@@ -104,9 +104,9 @@ plugin://script.module.horus?action=play&id=4141892f5df7d6474bf0279895ce02b7336c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%201.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> ELCANO
 plugin://script.module.horus?action=play&id=a116ce3ff95c41c60e987e2b1aa247007f707884
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%201.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> ELCANO
-plugin://script.module.horus?action=play&id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%201.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> ELCANO
 plugin://script.module.horus?action=play&id=9afc89481b721ce6c326c85e47148676077b8e62
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%201.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> ELCANO
+plugin://script.module.horus?action=play&id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%201.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> SPORT TV
 plugin://script.module.horus?action=play&id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%202.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD --> NEW ERA
@@ -491,9 +491,9 @@ plugin://script.module.horus?action=play&id=0dfa37340ca0300a41f7a78bd3a0f024c329
 plugin://script.module.horus?action=play&id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="Polsat Sport Extra" group-title="SPORT TV", Polsat Sport Extra (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="DSPORTS Fight" group-title="SPORT TV", Polsat Sport Fight (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="DSPORTS Fight" group-title="SPORT TV", Polsat Sport Fight (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=9e7fe279f421b734a8af9e68320955fd16f80b4b
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="Polsat Sport Premium 1" group-title="SPORT TV", Polsat Sport Premium 1 (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="Polsat Sport Premium 1" group-title="SPORT TV", Polsat Sport Premium 1 (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="Polsat Sport Premium 2" group-title="SPORT TV", Polsat Sport Premium 2 (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=3147c586346aee00c005d1caa55204d38678c95f
