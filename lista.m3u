@@ -1,27 +1,52 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+
 #EXTVLCOPT:network-caching=1000
 
+
+
 #EXTGRP: group-title="1RFEF" group-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es"
+
 #EXTGRP: group-title="BUNDESLIGA" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png"
+
 #EXTGRP: group-title="DAZN" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"
+
 #EXTGRP: group-title="DEPORTES" group-logo="https://i.ibb.co/6JGvLDWx/deportes-logo.png"
+
 #EXTGRP: group-title="EUROSPORT" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png"
+
 #EXTGRP: group-title="EVENTOS" group-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png"
+
 #EXTGRP: group-title="FORMULA 1" group-logo="https://i.ibb.co/2Ndmtbp/f1.png"
+
 #EXTGRP: group-title="FUTBOL INT" group-logo="https://i.ibb.co/8nvKsJwL/logo-futbol-internacional.png"
+
 #EXTGRP: group-title="HYPERMOTION" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
+
 #EXTGRP: group-title="LA LIGA" group-logo="https://i.ibb.co/sp6dD8h2/laliga-logo.png"
+
 #EXTGRP: group-title="LIGA DE CAMPEONES" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png"
+
 #EXTGRP: group-title="LIGA ENDESA" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/1200px-Liga_Endesa_2019_logo.svg.png"
+
 #EXTGRP: group-title="MOTOR" group-logo="https://i.ibb.co/tTrS7848/logo-motor.png"
+
 #EXTGRP: group-title="MOVISTAR" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png"
+
 #EXTGRP: group-title="MOVISTAR DEPORTES" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png"
+
 #EXTGRP: group-title="NBA" group-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png"
+
 #EXTGRP: group-title="OTROS" group-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png"
+
 #EXTGRP: group-title="SPORT TV" group-logo="https://i.ibb.co/WpVvrFT6/logo-sport-tv.png"
+
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
+
 #EXTGRP: group-title="TENNIS" group-logo="https://i.ibb.co/ynMKPMw2/logo-tennis.png"
+
 #EXTGRP: group-title="UFC" group-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png"
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="DAZN Copa Mundial de FIFA" group-title="MUNDIAL", DAZN FIFA 1--> NEW ERA III
 plugin://script.module.horus?action=play&id=b2bf586e7ddc31352f120c9274c1441dea3f5418
@@ -509,19 +534,19 @@ plugin://script.module.horus?action=play&id=49b734a5a3365674480089264be00ae28fab
 plugin://script.module.horus?action=play&id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/FOX%20SPORTS%202.png" tvg-id="FOX SPORTS 2" group-title="OTROS", FOX Sports 2 HD (US) --> SPORT TV
 plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="" group-title="OTROS", M-1 Global (RU) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", M-1 Global (RU) --> SPORT TV
 plugin://script.module.horus?action=play&id=a7e4499c869037073c97deb47a50d1e7090b1c04
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", nSport+ (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", ORF SPORT+ HD (DE) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="" group-title="OTROS", ORF SPORT+ HD (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", Polsat Sport (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="" group-title="OTROS", Polsat Sport (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="" group-title="OTROS", Polsat Sport Extra (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", Polsat Sport Extra (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", Polsat Sport Fight (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=9e7fe279f421b734a8af9e68320955fd16f80b4b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="" group-title="OTROS", Polsat Sport Premium 1 (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", Polsat Sport Premium 1 (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", Polsat Sport Premium 2 (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=3147c586346aee00c005d1caa55204d38678c95f
