@@ -485,7 +485,7 @@ plugin://script.module.horus?action=play&id=a7e4499c869037073c97deb47a50d1e7090b
 plugin://script.module.horus?action=play&id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", ORF SPORT+ HD (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4w7Bgy.png" tvg-id="" group-title="OTROS", Polsat Sport (PL) --> SPORT TV
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", Polsat Sport (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="OTROS", Polsat Sport Extra (PL) --> SPORT TV
 plugin://script.module.horus?action=play&id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
